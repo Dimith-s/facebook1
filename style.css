@@ -1,0 +1,154 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    text-decoration: none;
+}
+.main{
+    display: flex;
+    background-color:#f0f2f5
+    justify-content: space-around;
+    height: 100vh;
+}
+.heading{
+    display: flex;
+    flex-direction: column;
+    margin-top: 147px;
+    padding-left: 194px;
+}
+.heading1{
+    font-size: 18px;
+    margin-left: 30px;
+}
+.facebook{
+    
+    
+}
+.facebook img{
+    width: 300px;
+}
+.box{
+    border: 1px solid;
+    padding: 5px;
+    height: 316px;
+    width: 396px;
+    background-color: #ffffff;
+    border-radius: 7px;
+    border: 1px solid #dddfe2  ;
+
+}
+.right{
+    margin-right: 300px;
+    margin-top: 84px;
+    padding-left: 88px;
+    
+
+}
+.email input{
+    width: 330px;
+    height: 45px;
+    border: 1px solid #dddfe2;
+    border-radius: 7px;
+    margin-top: 10px;
+    margin-left: 9px;
+    font-size: medium;
+    padding: 7px 16px;
+
+   
+}
+
+.password input{
+    width: 330px;
+    height: 45px;
+    border: 1px solid #dddfe2;
+    border-radius: 7px;
+    margin-top: 10px;
+    margin-left: 9px;
+    font-size: medium;
+    padding: 7px 16px;
+}
+
+.login button{
+    width: 360px;
+    height: 45px;
+    border: 1px solid;
+    border-radius: 7px;
+    margin-top: 10px;
+    text-align: center;
+    margin-left: 9px;
+    color: white;
+    background-color: #1877f2;;
+    font-size: 22px;
+    font-weight: bold;
+    
+    
+}
+
+.forgot {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 15px
+}
+.create{
+    text-align: center;
+}
+.create button{
+    width: 170px;
+    height: 45px;
+    border: 1px solid;
+    border-radius: 3px;
+    margin-top: 10px;
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    background-color: chartreuse;
+    font-size: 15px;
+    font-weight: bolder;
+    color: #ffffff;
+}
+.last{
+    font-weight: normal;
+    margin-top: 20px;
+    font-size: 14px;
+    margin-left: 70px;
+    
+}
+.last span{
+    font-size: 14px;
+    font-weight: bold;
+    font-family: SFProText-Regular, Helvetica, Arial, sans-serif;
+}
+.footer{
+    width: 1000px;
+    font-size: 13px;
+    display: flex;
+    flex-direction: column;
+    
+    margin-left: 250px;
+   
+    
+    
+    
+}
+.footer1 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    color: #8a8d91;
+}
+.footer2 {
+    margin-top:15px ;
+    
+    
+}
+.footer1 a{
+    color: #8a8d91;
+    padding: 10px;
+}
+.footer2 a{
+    color: #8a8d91;
+    padding: 6px;
+}
+.footer3{
+    margin-top: 20px;
+    padding-left: 6px;
+    color: #8a8d91;
+}
